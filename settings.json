@@ -1,0 +1,8 @@
+{
+    "git.autofetch": true,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "'Hack Nerd Font', 'monospace', 'Droid Sans Mono', monospace",
+    "files.autoSave": "afterDelay",
+    "git.confirmSync": false,
+    "workbench.statusBar.visible": false
+}
