@@ -6,3 +6,47 @@
     "git.confirmSync": false,
     "workbench.statusBar.visible": false
 }
+
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "terminal.integrated.inheritEnv": false,
+    "editor.inlineSuggest.enabled": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "editor.fontFamily": "'Hack Nerd Font', 'monospace', 'Droid Sans Mono', monospace",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.editor.showTabs": "none",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    },
+    "settingsSync.ignoredExtensions": [
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "ms-dotnettools.csharp",
+        "ms-vscode-remote.remote-wsl",
+        "ritwickdey.liveserver",
+        "ms-mssql.mssql"
+    ],
+    "git.autofetch": true,
+    "extensions.ignoreRecommendations": true,
+    "vim.hlsearch": true,
+    "vim.neovimConfigPath": "~/.config/nvim/init.lua",
+    "vim.neovimPath": "/opt/homebrew/bin/nvim",
+    "vim.enableNeovim": true,
+    "vim.smartRelativeLine": true,
+    "window.commandCenter": false,
+    "go.toolsManagement.autoUpdate": true,
+    "editor.minimap.enabled": false,
+    "mssql.objectExplorer.groupBySchema": true,
+    "scm.diffDecorations": "none",
+    "git.decorations.enabled": false,
+    "files.autoSaveWhenNoErrors": true,
+    "files.autoSave": "afterDelay",
+    "workbench.settings.applyToAllProfiles": [],
+    "workbench.statusBar.visible": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.fontSize": 14
+}
